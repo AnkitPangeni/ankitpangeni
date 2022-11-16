@@ -1,6 +1,6 @@
 ### Hello it's me 👋
 <h1>Ankit Pangeni</h1>
-<h3>https://AnkitPangeni.github.io </h3>
+<h3>https://ankitPangeni.github.io </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitPangeni&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitPangeni" /> </p>
 
 
@@ -9,7 +9,7 @@
 <p align="left">
 - 🌱 I’m currently learning **Graphics Desinging and Frontend Development** <br>
 - 👨‍💻 All of my projects are available at https://github.com/AnkitPangeni?tab=repositories<br>
-- 📫 How to reach me: **Ankitpangeni74@gmail.com**<br>
+- 📫 How to reach me: **ankitpangeni74@gmail.com**<br>
 - 💬 Ask me about **Front-End Development, Technology, Bsc. CSIT**<br>
 - 🏠 Location: Pokhara, Nepal <br>
   </p>
