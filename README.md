@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hello it's me 👋
 <h1>Ankit Pangeni</h1>
 <h3>https://AnkitPangeni.github.io </h3>
