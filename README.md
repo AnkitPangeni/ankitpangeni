@@ -1,17 +1,20 @@
 ### Hello it's me 👋
 <h1>Ankit Pangeni</h1>
+
+<h3>https://ankitpangeni.com.np </h3>
+<h3>https://pangeniankit.com.np </h3>
 <h3>https://ankitPangeni.github.io </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitPangeni&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitPangeni" /> </p>
 
 
-<h3 align="center"> I'm a Computer Science and Technology enthusciast , i love to explore new things and learn them </h3>
+<h3 align="center"> I'm a Computer Science and Technology enthusiast , i love to explore new things and learn them </h3>
 <br>
 <p align="left">
-- 🌱 I’m currently learning Graphics Desinging and Frontend Development <br>
-- 👨‍💻 All of my projects are available at https://github.com/AnkitPangeni?tab=repositories<br>
-- 📫 How to reach me: mail@ankitpangeni.com.np<br>
-- 💬 Ask me about Front-End Development, Graphics and Web design, Technology, Bsc. CSIT<br>
-- 🏠 Location: Pokhara, Nepal <br>
+➡ I’m currently learning Graphics, Web Designing and Frontend Development <br>
+➡  All of my projects are available at https://github.com/AnkitPangeni?tab=repositories<br>
+➡  How to reach me: mail@ankitpangeni.com.np<br>
+➡ Ask me about Front-End Development, Graphics and Web design, Technology, Bsc. CSIT<br>
+➡  Location: Pokhara, Nepal <br>
   </p>
 <br>
 <br>
