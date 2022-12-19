@@ -3,7 +3,7 @@
 
 <h3>https://ankitpangeni.com.np </h3>
 <h3>https://pangeniankit.com.np </h3>
-<h3>https://ankitPangeni.github.io </h3>
+<h3>https://ankitpangeni.github.io </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitPangeni&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitPangeni" /> </p>
 
 
