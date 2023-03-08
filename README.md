@@ -1,4 +1,4 @@
-### Hello it's me 👋
+### Hello I'm
 <h1>Ankit Pangeni</h1>
 
 <h3>https://ankitpangeni.com.np </h3>
