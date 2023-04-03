@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnkitPangeni&label=Profile%20views&color=0e75b6&style=flat" alt="AnkitPangeni" /> </p>
 
 
-<h3 align="center"> I'm a Computer Science and Technology enthusiast , i love to explore new things and learn them </h3>
+<h3 align="center"> I'm a Computer Science and Technology enthusiast , i love to explore new things </h3>
 <br>
 <p align="left">
 ➡ I’m currently learning Graphics, Web Designing and Frontend Development <br>
